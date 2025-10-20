@@ -4,17 +4,19 @@
     "url": "https://sixstarstr.com",
     "icon": "https://icons.duckduckgo.com/ip3/sixstarstr.com.ico",
     "slug": "sixstar-str",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 894,
-    "timeDay": 750,
-    "timeWeek": 1202,
-    "timeMonth": 1152,
-    "timeYear": 964,
-    "dailyMinutesDown": {}
+    "time": 893,
+    "timeDay": 685,
+    "timeWeek": 1129,
+    "timeMonth": 1135,
+    "timeYear": 963,
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   }
 ]
